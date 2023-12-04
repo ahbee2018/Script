@@ -26,6 +26,10 @@ https://github.com/ylx2016/Linux-NetSpeed
 1. 一键安装 MTProxy 代理<br>
 https://github.com/ellermister/mtproxy
 
+2. V2ray/Xray多用户管理脚本<br>
+https://github.com/Jrohy/multi-v2ray
+
+
 ## (4)转发
 1. nftables<br>
 https://github.com/arloor/nftables-nat-rust
