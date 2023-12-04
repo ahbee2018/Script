@@ -22,6 +22,10 @@ bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeCl
 ## (2)Linux更换内核
 https://github.com/ylx2016/Linux-NetSpeed
 
+## (3)Proxy
+1. 一键安装 MTProxy 代理<br>
+https://github.com/ellermister/mtproxy
+
 ## (7)其他
 1. 香港地址解析器<br>
 https://g0vhk-io.github.io/HKAddressParser/#/
