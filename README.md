@@ -19,8 +19,23 @@ bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeCl
 –ip-mask  #自定义掩码地址，如：255.255.xxx.xx
 ```
 
+## (2)Linux更换内核
+预先准备<br>
+```
+centos：yum install ca-certificates wget -y && update-ca-trust force-enable
+debian/ubuntu：apt-get install ca-certificates wget -y && update-ca-certificates
+```
 
+不卸载内核版本<br>
+```
+wget -O tcpx.sh "https://github.com/ylx2016/Linux-NetSpeed/raw/master/tcpx.sh" && chmod +x tcpx.sh && ./tcpx.sh
+```
+
+卸载内核版本<br>
+```
+wget -O tcp.sh "https://github.com/ylx2016/Linux-NetSpeed/raw/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+```
 
 ## (7)其他
-香港地址解析器<br>
+1. 香港地址解析器<br>
 https://g0vhk-io.github.io/HKAddressParser/#/
