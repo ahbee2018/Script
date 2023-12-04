@@ -18,3 +18,9 @@ bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeCl
 –ip-gate  #自定义网关地址，如：123.45.xxx.xxx （事先 route -n 获取）
 –ip-mask  #自定义掩码地址，如：255.255.xxx.xx
 ```
+
+
+
+## (7)其他
+香港地址解析器
+https://g0vhk-io.github.io/HKAddressParser/#/
