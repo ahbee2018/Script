@@ -19,6 +19,9 @@ bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeCl
 –ip-mask  #自定义掩码地址，如：255.255.xxx.xx
 ```
 
+2. 秋水逸冰
+https://teddysun.com/category/tech
+
 ## (2)Linux更换内核
 https://github.com/ylx2016/Linux-NetSpeed
 
@@ -40,3 +43,6 @@ https://g0vhk-io.github.io/HKAddressParser/#/
 
 2. Aria2-AriaNg-X<br>
 https://github.com/wahyd4/aria2-ariang-x-docker-compose
+
+3. 独角数卡<br>
+https://github.com/assimon/dujiaoka
