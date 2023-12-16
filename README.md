@@ -46,3 +46,6 @@ https://github.com/wahyd4/aria2-ariang-x-docker-compose
 
 3. 独角数卡<br>
 https://github.com/assimon/dujiaoka
+
+4. KMS激活<br>
+http://www.aichunjing.com/jhgj1/
