@@ -19,7 +19,7 @@ bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeCl
 –ip-mask  #自定义掩码地址，如：255.255.xxx.xx
 ```
 
-2. 秋水逸冰
+2. 秋水逸冰<br>
 https://teddysun.com/category/tech
 
 ## (2)Linux更换内核
