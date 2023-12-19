@@ -49,3 +49,6 @@ https://github.com/assimon/dujiaoka
 
 4. KMS激活<br>
 http://www.aichunjing.com/jhgj1/
+
+5. 宝塔纯净版<br>
+https://www.hostcli.com/
