@@ -50,7 +50,7 @@ https://github.com/assimon/dujiaoka
 4. KMS激活<br>
 http://www.aichunjing.com/jhgj1/
 
-5. 宝塔7.7纯净版<br>
+5. 宝塔纯净版<br>
 https://github.com/8838/btpanel-v7.7.0
 https://bt.sy/bbs/forum-37-1.html
 
