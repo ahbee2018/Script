@@ -52,6 +52,7 @@ http://www.aichunjing.com/jhgj1/
 
 5. 宝塔7.7纯净版<br>
 https://github.com/8838/btpanel-v7.7.0
+https://bt.sy/bbs/forum-37-1.html
 
 6. Nginx配置只允许域名访问 禁止直接IP访问<br>
 https://www.bnxb.com/nginx/27645.html
