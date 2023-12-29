@@ -56,3 +56,6 @@ https://bt.sy/bbs/forum-37-1.html
 
 6. Nginx配置只允许域名访问 禁止直接IP访问<br>
 https://www.bnxb.com/nginx/27645.html
+
+7. Adobe移除背景<br>
+https://new.express.adobe.com/tools/remove-background
