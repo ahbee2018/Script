@@ -59,3 +59,6 @@ https://www.bnxb.com/nginx/27645.html
 
 7. Adobe移除背景<br>
 https://new.express.adobe.com/tools/remove-background
+
+8. logo制作<br>
+https://github.com/quarkape/free-canvas
