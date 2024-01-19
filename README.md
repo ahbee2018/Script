@@ -23,7 +23,7 @@ bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeCl
 https://teddysun.com/category/tech
 
 ## (2)Linux更换内核
-1.<br>
+1.
 https://github.com/ylx2016/Linux-NetSpeed
 
 2.
