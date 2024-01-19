@@ -23,10 +23,10 @@ bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeCl
 https://teddysun.com/category/tech
 
 ## (2)Linux内核相关
-1.更换Linux内核脚本<br>
+1. 更换Linux内核脚本<br>
 https://github.com/ylx2016/Linux-NetSpeed
 
-2.<br>
+2.
 https://blog.cloudflare.com/optimizing-tcp-for-high-throughput-and-low-latency
 ```
 vim /etc/sysctl.conf 
