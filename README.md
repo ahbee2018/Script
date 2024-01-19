@@ -53,6 +53,9 @@ https://github.com/ellermister/mtproxy
 2. V2ray/Xray多用户管理脚本<br>
 https://github.com/Jrohy/multi-v2ray
 
+3. v2ray-agent<br>
+https://github.com/mack-a/v2ray-agent
+
 
 ## (4)转发
 1. nftables<br>
