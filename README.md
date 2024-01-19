@@ -23,7 +23,26 @@ bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeCl
 https://teddysun.com/category/tech
 
 ## (2)Linux更换内核
+1.<br>
 https://github.com/ylx2016/Linux-NetSpeed
+
+2.
+```
+vim /etc/sysctl.conf 
+
+#添加以下
+
+net.ipv4.tcp_rmem = 8192 262144 536870912
+net.ipv4.tcp_wmem = 4096 16384 536870912
+net.ipv4.tcp_adv_win_scale = -2
+net.ipv4.tcp_collapse_max_bytes = 6291456
+net.ipv4.tcp_notsent_lowat = 131072
+
+
+service procps force-reload #重载
+sysctl net.ipv4.tcp_wmem #查看
+
+```
 
 ## (3)Proxy
 1. 一键安装 MTProxy 代理<br>
