@@ -22,8 +22,8 @@ bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeCl
 2. 秋水逸冰<br>
 https://teddysun.com/category/tech
 
-## (2)Linux更换内核
-1.
+## (2)Linux内核相关
+1.更换Linux内核脚本<br>
 https://github.com/ylx2016/Linux-NetSpeed
 
 2.
