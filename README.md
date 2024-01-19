@@ -39,9 +39,10 @@ net.ipv4.tcp_adv_win_scale = -2
 net.ipv4.tcp_collapse_max_bytes = 6291456
 net.ipv4.tcp_notsent_lowat = 131072
 
-
-service procps force-reload #重载
-sysctl net.ipv4.tcp_wmem #查看
+#重载
+service procps force-reload
+#查看
+sysctl net.ipv4.tcp_wmem
 
 ```
 
