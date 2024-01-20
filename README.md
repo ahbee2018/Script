@@ -56,6 +56,9 @@ https://github.com/Jrohy/multi-v2ray
 3. v2ray-agent<br>
 https://github.com/mack-a/v2ray-agent
 
+4. 3x-ui<br>
+https://github.com/MHSanaei/3x-ui
+
 
 ## (4)转发
 1. nftables<br>
