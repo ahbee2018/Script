@@ -59,6 +59,10 @@ https://github.com/mack-a/v2ray-agent
 4. 3x-ui<br>
 https://github.com/MHSanaei/3x-ui
 
+5. Hiddify-Manager<br>
+https://github.com/hiddify/Hiddify-Manager
+
+
 
 ## (4)转发
 1. nftables<br>
