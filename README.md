@@ -25,6 +25,9 @@ https://teddysun.com/category/tech
 3. leitbogioro<br>
 https://github.com/leitbogioro/Tools
 
+4. dd<br>
+https://blog.tanglu.me/dd
+
 ## (2)Linux内核相关
 1. 更换Linux内核脚本<br>
 https://github.com/ylx2016/Linux-NetSpeed
