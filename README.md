@@ -108,3 +108,6 @@ https://github.com/magicblack/maccms10
 
 11. icon设计<br>
 https://www.logosc.cn/logo/favicon?s=
+
+12. 域名价格搜索<br>
+https://www.nazhumi.com/
