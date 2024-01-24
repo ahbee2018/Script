@@ -111,3 +111,6 @@ https://www.logosc.cn/logo/favicon?s=
 
 12. 域名价格搜索<br>
 https://www.nazhumi.com/
+
+13. HEXO 宝塔安装<br>
+https://www.mnqz.com/posts/8aab5424.html
