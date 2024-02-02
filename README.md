@@ -123,3 +123,6 @@ https://github.com/spiritLHLS/one-click-installation-script
 
 16. 影视仓库<br>
 http://www.wmdz.com/index.html
+
+17. 爬虫管理平台<br>
+https://ai.crawlab.io/zh
