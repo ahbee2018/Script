@@ -74,6 +74,10 @@ https://github.com/hiddify/Hiddify-Manager
 1. nftables<br>
 https://github.com/arloor/nftables-nat-rust
 
+## (5)学习
+1. 编程语言速成<br>
+https://learnxinyminutes.com/
+
 ## (7)其他
 1. 香港地址解析器<br>
 https://g0vhk-io.github.io/HKAddressParser/#/
