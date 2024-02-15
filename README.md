@@ -130,3 +130,6 @@ http://www.wmdz.com/index.html
 
 17. 爬虫管理平台<br>
 https://ai.crawlab.io/zh
+
+18. SophOS 下载目录<br>
+https://download.sophos.com/network/SophosFirewall/installers/index.html
