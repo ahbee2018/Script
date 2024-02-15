@@ -140,6 +140,7 @@ https://github.com/pmkol/easymosdns
 
 20. debian 11 设置静态IP<br>
 ```
+# /etc/network/interfaces
 auto enp0s3
 iface enp0s3 inet static
 address 192.168.2.2
