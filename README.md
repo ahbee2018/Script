@@ -133,3 +133,7 @@ https://ai.crawlab.io/zh
 
 18. SophOS 下载目录<br>
 https://download.sophos.com/network/SophosFirewall/installers/index.html
+
+19. MosDNS<br>
+https://github.com/IrineSistiana/mosdns
+https://github.com/pmkol/easymosdns
