@@ -78,7 +78,7 @@ https://github.com/arloor/nftables-nat-rust
 1. 编程语言速成<br>
 https://learnxinyminutes.com/
 
-## (7)其他
+## (6)其他
 1. 香港地址解析器<br>
 https://g0vhk-io.github.io/HKAddressParser/#/
 
@@ -137,3 +137,13 @@ https://download.sophos.com/network/SophosFirewall/installers/index.html
 19. MosDNS<br>
 https://github.com/IrineSistiana/mosdns<br>
 https://github.com/pmkol/easymosdns
+
+20. debian 11 设置静态IP<br>
+```
+auto enp0s3
+iface enp0s3 inet static
+address 192.168.2.2
+netmask 255.255.255.0
+gateway 192.168.2.2
+dns-nameservers 8.8.4.4 8.8.8.8
+```
