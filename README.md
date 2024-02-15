@@ -147,4 +147,6 @@ address 192.168.2.2
 netmask 255.255.255.0
 gateway 192.168.2.2
 dns-nameservers 8.8.4.4 8.8.8.8
+
+# systemctl restart NetworkManager.service
 ```
