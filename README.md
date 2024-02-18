@@ -156,3 +156,6 @@ dns-nameservers 8.8.4.4 8.8.8.8
 https://tvheadend.org/p/downloads<br>
 https://www.linuxtv.org/wiki/index.php/DTMB_USB_devices<br>
 https://leohkyeung.ddns.net/
+
+22. openwrt在线定制<br>
+https://openwrt.ai/
