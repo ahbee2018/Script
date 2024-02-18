@@ -151,3 +151,7 @@ dns-nameservers 8.8.4.4 8.8.8.8
 
 # systemctl restart NetworkManager.service
 ```
+
+21. tvheadend<br>
+https://tvheadend.org/p/downloads<br>
+https://www.linuxtv.org/wiki/index.php/DTMB_USB_devices
