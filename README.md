@@ -81,6 +81,12 @@ https://learnxinyminutes.com/
 2. Rust圣经<br>
 https://course.rs/about-book.html
 
+3. Go圣经<br>
+https://gopl-zh.github.io/index.html
+
+4. C++<br>
+https://github.com/qmsggg37/qmsggg_cplusplus
+
 ## (6)其他
 1. 香港地址解析器<br>
 https://g0vhk-io.github.io/HKAddressParser/#/
