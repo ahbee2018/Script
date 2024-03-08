@@ -78,6 +78,9 @@ https://github.com/arloor/nftables-nat-rust
 1. 编程语言速成<br>
 https://learnxinyminutes.com/
 
+2. Rust圣经<br>
+https://course.rs/about-book.html
+
 ## (6)其他
 1. 香港地址解析器<br>
 https://g0vhk-io.github.io/HKAddressParser/#/
