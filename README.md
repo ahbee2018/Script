@@ -28,6 +28,9 @@ https://github.com/leitbogioro/Tools
 4. dd<br>
 https://blog.tanglu.me/dd
 
+5. DD<br>
+https://github.com/bin456789/reinstall
+
 ## (2)Linux内核相关
 1. 更换Linux内核脚本<br>
 https://github.com/ylx2016/Linux-NetSpeed
