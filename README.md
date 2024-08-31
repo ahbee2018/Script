@@ -54,6 +54,8 @@ service procps force-reload
 sysctl net.ipv4.tcp_wmem
 
 ```
+3. 更换内核<br>
+https://github.com/jinwyp/one_click_script
 
 ## (3)Proxy
 1. 一键安装 MTProxy 代理<br>
