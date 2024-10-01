@@ -189,3 +189,6 @@ https://bunny.net/
 
 27. <br>
 https://github.com/lbl8603/vnt
+
+28. <br>
+https://u.sb/debian-rc-local/
