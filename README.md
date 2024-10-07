@@ -193,3 +193,6 @@ https://github.com/lbl8603/vnt
 28. <br>
 https://u.sb/debian-rc-local/  <br>
 https://dengtao.me/blog/item/1539
+
+29. <br>
+https://www.stream-link.org/
