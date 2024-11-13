@@ -1,0 +1,26 @@
+﻿#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTINF:-1 tvg-id="港台電視-31" tvg-name="港台電視 31" tvg-logo="https://upload.112114.xyz/logo/rthk31.png" group-title="港台電視",港台電視 31
+http://172.19.78.1:57522/upnp/channelstream/3713217898693001247%7CRTHK%20TV%2031.ts
+#EXTINF:-1 tvg-id="港台電視-32" tvg-name="港台電視 32" tvg-logo="https://upload.112114.xyz/logo/rthk32.png" group-title="港台電視",港台電視 32
+http://172.19.78.1:57522/upnp/channelstream/3713217898693656608%7CRTHK%20TV%2032.ts
+#EXTINF:-1 tvg-id="HOY-國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://assets.livednow.com/logo/HOY-國際財經台.png" group-title="HOY频道",HOY 國際財經台
+http://172.19.78.1:57522/upnp/channelstream/3713217898722426956%7C%2AHOY%20IBC.ts
+#EXTINF:-1 tvg-id="HOYTV" tvg-name="HOY TV" tvg-logo="https://assets.livednow.com/logo/HOYTV.png" group-title="HOY频道",HOY TV
+http://172.19.78.1:57522/upnp/channelstream/3713217898723082317%7C%2AHOY%20TV.ts
+#EXTINF:-1 tvg-id="HOYTV-資訊台" tvg-name="HOY TV 資訊台" tvg-logo="https://assets.livednow.com/logo/HOYTV-資訊台.png" group-title="HOY频道",HOY 資訊台
+http://172.19.78.1:57522/upnp/channelstream/3713217898723737678%7C%2AHOY%20Infotainment.ts
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="TVB",翡翠台
+http://172.19.78.1:57522/upnp/channelstream/3713217898725769217%7CJade.ts
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB PLUS" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="TVB",TVB Plus
+http://172.19.78.1:57522/upnp/channelstream/3713217898726424658%7CTVB%20Plus.ts
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="News 新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="TVB",無線新聞台
+http://172.19.78.1:57522/upnp/channelstream/3713217898727080019%7CTVB%20News%20Channel.ts
+#EXTINF:-1 tvg-id="明珠台" tvg-name="Pearl 明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="TVB",明珠台
+http://172.19.78.1:57522/upnp/channelstream/3713217898727735298%7CPearl.ts
+#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰香港台" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="鳳凰频道",鳳凰衛視香港台
+http://172.19.78.1:57522/upnp/channelstream/3713217898728390741%7CPHOENIX%20HK%20CHANNEL.ts
+#EXTINF:-1 tvg-id="ViuTV-Six" tvg-name="ViuTV Six" tvg-logo="https://assets.livednow.com/logo/ViuTV-Six.png" group-title="Viu频道",ViuTV Six
+http://172.19.78.1:57522/upnp/channelstream/3713217898735599712%7CViuTVsix.ts
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://assets.livednow.com/logo/ViuTV.png" group-title="Viu频道",ViuTV
+http://172.19.78.1:57522/upnp/channelstream/3713217898737565795%7CViuTV.ts
