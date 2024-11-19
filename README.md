@@ -108,51 +108,55 @@ http://www.aichunjing.com/jhgj1/
 5. 宝塔纯净版<br>
 https://github.com/8838/btpanel-v7.7.0<br>
 https://bt.sy/bbs/forum-37-1.html
+```
+sed -i "/bt.cn/d" /etc/hosts
+echo "103.179.243.14  www.bt.cn download.bt.cn api.bt.cn dg1.bt.cn dg2.bt.cn" >> /etc/hosts
+```
 
-6. Nginx配置只允许域名访问 禁止直接IP访问<br>
+7. Nginx配置只允许域名访问 禁止直接IP访问<br>
 https://www.bnxb.com/nginx/27645.html
 
-7. Adobe移除背景<br>
+8. Adobe移除背景<br>
 https://new.express.adobe.com/tools/remove-background
 
-8. logo制作<br>
+9. logo制作<br>
 https://github.com/quarkape/free-canvas
 
-9. PVE tools<br>
+10. PVE tools<br>
 https://github.com/ivanhao/pvetools
 
-10. 苹果CMS<br>
+11. 苹果CMS<br>
 https://github.com/magicblack/maccms10
 
-11. icon设计<br>
+12. icon设计<br>
 https://www.logosc.cn/logo/favicon?s=
 
-12. 域名价格搜索<br>
+13. 域名价格搜索<br>
 https://www.nazhumi.com/
 
-13. HEXO 宝塔安装<br>
+14. HEXO 宝塔安装<br>
 https://www.mnqz.com/posts/8aab5424.html
 
-14. 屏蔽IP段<br>
+15. 屏蔽IP段<br>
 https://www.ip2location.com/free/visitor-blocker
 
-15. 一键修复与安装脚本<br>
+16. 一键修复与安装脚本<br>
 https://github.com/spiritLHLS/one-click-installation-script
 
-16. 影视仓库<br>
+17. 影视仓库<br>
 http://www.wmdz.com/index.html
 
-17. 爬虫管理平台<br>
+18. 爬虫管理平台<br>
 https://ai.crawlab.io/zh
 
-18. SophOS 下载目录<br>
+19. SophOS 下载目录<br>
 https://download.sophos.com/network/SophosFirewall/installers/index.html
 
-19. MosDNS<br>
+20. MosDNS<br>
 https://github.com/IrineSistiana/mosdns<br>
 https://github.com/pmkol/easymosdns
 
-20. debian 11 设置静态IP<br>
+21. debian 11 设置静态IP<br>
 ```
 # /etc/network/interfaces
 
