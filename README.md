@@ -111,6 +111,11 @@ https://bt.sy/bbs/forum-37-1.html
 ```
 sed -i "/bt.cn/d" /etc/hosts
 echo "103.179.243.14  www.bt.cn download.bt.cn api.bt.cn dg1.bt.cn dg2.bt.cn" >> /etc/hosts
+
+第一种：修改面板文件
+
+找到目录/www/server/panel/class 下的 acme_v2.py，修改acme_v2.py文件，找到 X509Req.set_version(2)  ，将其改为 X509Req.set_version(0)
+
 ```
 
 7. Nginx配置只允许域名访问 禁止直接IP访问<br>
